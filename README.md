@@ -26,6 +26,6 @@ I'm Muhammed İkbal Polatcan, an electrical and electronics engineering student 
 
 ## 📫 Contact
 
-- Email: [mipltcn23@icloud.com](mailto:mipltcn23@icloud.com)
+- Email: [mipltcn23@icloud.com](mailto:mipltcn23@gmail.com)
 
 As a curious, diligent, and communicative developer with a specific interest in crafting impressive user interfaces, I am excited to collaborate on new projects and contribute to the coding world. Feel free to reach out!
